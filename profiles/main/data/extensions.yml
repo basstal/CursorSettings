@@ -131,6 +131,8 @@ enabled:
     uuid: 17d96133-c9cc-4a9b-8788-7de26979bcdd
   - id: vs-publisher-1448185.keyoti-changeallendoflinesequence
     uuid: 8d9555cf-9c60-41c9-95b0-536c5473191d
+  - id: Vue.volar
+    uuid: a95ee795-1576-4ffa-acda-8d6e6a95c584
   - id: WallabyJs.quokka-vscode
     uuid: aae0701b-111f-49c1-9000-abd37a442f28
   - id: wayou.vscode-todo-highlight
