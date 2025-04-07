@@ -1,0 +1,72 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+shift+k",
+        "command": "editor.action.deleteLines",
+        "when": "textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+shift+k",
+        "command": "-editor.action.deleteLines",
+        "when": "textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "shift+f12",
+        "command": "-editor.action.goToReferences",
+        "when": "editorHasReferenceProvider && editorTextFocus && !inReferenceSearchEditor && !isInEmbeddedEditor"
+    },
+    {
+        "key": "ctrl+alt+k",
+        "command": "composer.openAsBar"
+    },
+    {
+        "key": "ctrl+shift+k",
+        "command": "-composer.openAsBar"
+    },
+    {
+        "key": "ctrl+shift+alt+l",
+        "command": "aichat.insertselectionintochat"
+    },
+    {
+        "key": "ctrl+shift+l",
+        "command": "-aichat.insertselectionintochat"
+    },
+    {
+        "key": "ctrl+shift+j",
+        "command": "-aiSettings.action.open",
+        "when": "!isSettingsPaneOpen"
+    },
+    {
+        "key": "ctrl+shift+j",
+        "command": "-aiSettings.action.openhidden",
+        "when": "!isSettingsPaneOpen"
+    },
+    {
+        "key": "alt+f7",
+        "command": "references-view.findReferences",
+        "when": "editorHasReferenceProvider"
+    },
+    {
+        "key": "shift+alt+f12",
+        "command": "-references-view.findReferences",
+        "when": "editorHasReferenceProvider"
+    },
+    {
+        "key": "shift+alt+f12",
+        "command": "workbench.action.debug.continue",
+        "when": "debugState == 'stopped'"
+    },
+    {
+        "key": "f5",
+        "command": "-workbench.action.debug.continue",
+        "when": "debugState == 'stopped'"
+    },
+    {
+        "key": "shift+alt+t",
+        "command": "openInIntegratedTerminal"
+    },
+    {
+        "key": "ctrl+i",
+        "command": "composerMode.agent"
+    }
+]
