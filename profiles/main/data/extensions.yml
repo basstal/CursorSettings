@@ -123,6 +123,8 @@ enabled:
     uuid: 6bc1e3ad-c0e2-46b6-bbad-246c5f59215b
   - id: redhat.vscode-yaml
     uuid: 2061917f-f76a-458a-8da9-f162de22b97e
+  - id: SecretLab.yarn-spinner
+    uuid: cf9c74dd-33c7-4730-abba-2a128d2bc167
   - id: slevesque.shader
     uuid: 3a63675f-7987-4cff-a411-d4a9568f560c
   - id: sndels.vulkan-api-docs
