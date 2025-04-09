@@ -24,7 +24,7 @@
         "*.py": "python"
     },
     "workbench.sideBar.location": "left",
-    "extensions.autoUpdate": "onlyEnabledExtensions",
+    "extensions.autoUpdate": false,
     "svn.autorefresh": true,
     "svn.remoteChanges.checkFrequency": 300,
     "svn.multipleFolders.enabled": true,
@@ -356,5 +356,6 @@
     "workbench.colorTheme": "Default Dark Modern",
     "powershell.promptToUpdatePowerShell": false,
     "http.proxy": "http://127.0.0.1:21882",
-    "files.autoSave": "afterDelay"
+    "files.autoSave": "afterDelay",
+    "extensions.autoCheckUpdates": false
 }
