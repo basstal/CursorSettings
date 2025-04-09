@@ -13,8 +13,6 @@ enabled:
     uuid: c5ed5cdd-ed31-45b0-b275-878600095d31
   - id: adrianwilczynski.terminal-commands
     uuid: ccdb378e-214a-468c-bfce-12192011281c
-  - id: adrianwilczynski.toggle-hidden
-    uuid: 750e3144-fb21-4637-96a8-40fcc8402dad
   - id: afractal.node-essentials
     uuid: 0679e3a9-5b6f-4762-af78-2ea537dfd218
   - id: anysphere.pyright
