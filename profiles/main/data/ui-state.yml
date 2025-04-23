@@ -149,6 +149,7 @@ workbench.view.extension.gitlensPanel.state.hidden: '[{"id":"gitlens.views.graph
 workbench.view.extension.kubernetesView.state.hidden: '[{"id":"extension.vsKubernetesExplorer","isHidden":false},{"id":"extension.vsKubernetesHelmRepoExplorer","isHidden":false},{"id":"kubernetes.cloudExplorer","isHidden":false}]'
 workbench.view.extension.liveshare.state.hidden: '[{"id":"liveshare.session","isHidden":false},{"id":"liveshare.help","isHidden":false},{"id":"liveshare.devtools","isHidden":false}]'
 workbench.view.extension.nugetGalleryView.state.hidden: '[{"id":"nuget.gallery.view","isHidden":false}]'
+workbench.view.extension.package-explorer.state.hidden: '[{"id":"workspaceEnvironments","isHidden":false},{"id":"pythonEnvironments","isHidden":false}]'
 workbench.view.extension.references-view.state.hidden: '[{"id":"references-view.tree","isHidden":false},{"id":"CppReferencesView","isHidden":false}]'
 workbench.view.extension.svnActivity.state.hidden: '[{"id":"repolog","isHidden":false},{"id":"itemlog","isHidden":false},{"id":"branchchanges","isHidden":false}]'
 workbench.view.extension.test.state.hidden: '[{"id":"workbench.view.testing","isHidden":false},{"id":"workbench.view.testCoverage","isHidden":false}]'
